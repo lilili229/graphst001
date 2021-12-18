@@ -1,0 +1,16 @@
+C:\Users\rainn\OneDrive\Documents\Profession\DoAn\DoAn\bin\Debug\net5.0\DoAn.exe
+C:\Users\rainn\OneDrive\Documents\Profession\DoAn\DoAn\bin\Debug\net5.0\DoAn.deps.json
+C:\Users\rainn\OneDrive\Documents\Profession\DoAn\DoAn\bin\Debug\net5.0\DoAn.runtimeconfig.json
+C:\Users\rainn\OneDrive\Documents\Profession\DoAn\DoAn\bin\Debug\net5.0\DoAn.runtimeconfig.dev.json
+C:\Users\rainn\OneDrive\Documents\Profession\DoAn\DoAn\bin\Debug\net5.0\DoAn.dll
+C:\Users\rainn\OneDrive\Documents\Profession\DoAn\DoAn\bin\Debug\net5.0\ref\DoAn.dll
+C:\Users\rainn\OneDrive\Documents\Profession\DoAn\DoAn\bin\Debug\net5.0\DoAn.pdb
+C:\Users\rainn\OneDrive\Documents\Profession\DoAn\DoAn\obj\Debug\net5.0\DoAn.csproj.AssemblyReference.cache
+C:\Users\rainn\OneDrive\Documents\Profession\DoAn\DoAn\obj\Debug\net5.0\DoAn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rainn\OneDrive\Documents\Profession\DoAn\DoAn\obj\Debug\net5.0\DoAn.AssemblyInfoInputs.cache
+C:\Users\rainn\OneDrive\Documents\Profession\DoAn\DoAn\obj\Debug\net5.0\DoAn.AssemblyInfo.cs
+C:\Users\rainn\OneDrive\Documents\Profession\DoAn\DoAn\obj\Debug\net5.0\DoAn.csproj.CoreCompileInputs.cache
+C:\Users\rainn\OneDrive\Documents\Profession\DoAn\DoAn\obj\Debug\net5.0\DoAn.dll
+C:\Users\rainn\OneDrive\Documents\Profession\DoAn\DoAn\obj\Debug\net5.0\ref\DoAn.dll
+C:\Users\rainn\OneDrive\Documents\Profession\DoAn\DoAn\obj\Debug\net5.0\DoAn.pdb
+C:\Users\rainn\OneDrive\Documents\Profession\DoAn\DoAn\obj\Debug\net5.0\DoAn.genruntimeconfig.cache
